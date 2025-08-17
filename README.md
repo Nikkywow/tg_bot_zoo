@@ -15,7 +15,7 @@
 ### Установка
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/yourusername/zoo-quiz-bot.git
+git clone https://github.com/Nikkywow/tg_bot_zoo
 cd zoo-quiz-bot
 
 # Установите зависимости
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 # Настройте окружение
 cp .env.example .env
-nano .env  # добавьте ваш TELEGRAM_BOT_TOKEN
+nano .env  <TELEGRAM_BOT_TOKEN>
 
 
 ### Запуск
